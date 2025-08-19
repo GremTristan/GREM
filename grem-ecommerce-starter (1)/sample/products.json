@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "cookie-dark-70",
+    "name": "Chocolat Noir 70%",
+    "price_cents": 490,
+    "currency": "CHF",
+    "image": "https://images.unsplash.com/photo-1548907040-4bea439cf9de",
+    "qty": 1
+  },
+  {
+    "sku": "cookie-milk-nuts",
+    "name": "Chocolat Lait Noisettes",
+    "price_cents": 520,
+    "currency": "CHF",
+    "image": "https://images.unsplash.com/photo-1606313564200-18a3829f03e8",
+    "qty": 1
+  }
+]
